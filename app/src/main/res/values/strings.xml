@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LR02</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="add">+</string>
+    <string name="subtruct">-</string>
+</resources>
